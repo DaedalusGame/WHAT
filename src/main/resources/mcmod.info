@@ -1,0 +1,16 @@
+[
+{
+  "modid": "what",
+  "name": "WHAT",
+  "description": "Local modder obtains unlimited power.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BordListian"],
+  "credits": "No Thanks To Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
